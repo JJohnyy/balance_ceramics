@@ -72,9 +72,92 @@ Interviews were carried out with the owner of Balance-ceramics, customers that c
 
 | Name | Age | Uses the service |
 | -- | -- | -- |
-| Tereza Nieserová | 30 | Owner | N/A |
+| Tereza Nieserová | 30 | Owner |
+| Katerina Novaková | 28 | Yes |
+| Tereza Kohoutková | 29 | Yes |
+| Jana Knourková | 31 | Yes |
+
+&nbsp;
+
+## User Goals
+From the resulting interviews, the user goals have been defined:
+
+1. Create, update and delete products
+1. Quickly create orders and securely purchase
+1. Login and out functionality
+1. View contact details
+1. See reviews of the business
+1. Search through products
+
+&nbsp;
+
+## User Stories
+
+| ID | User Category | User wants to... | So they can... |
+|--|--|--|--|
+| 01 | Store Owner | Add products | Add new items to the store
+| 02 | Store Owner | Edit and update a product | Change the price or any details of a product
+| 03 | Store Owner | Delete products | Remove them from the store
+| 04 | Store Owner | View all orders | See which are completed and which are outstanding
+| 05 | Store Owner | See the number of open orders | Plan their schedule
+| 06 | Shopper | View a list of all the products | Choose products to purchase
+| 07 | Shopper | See individual product details | Have a detailed explanation of the product
+| 08 | Shopper | Have contact information available | Make contact with the store if there is a problem
+| 09 | Shopper | Easily select dishes for purchase | Keep interaction time down 
+| 10 | Shopper | See the items selected for purchase | Keep track of my selections
+| 11 | Shopper | See a running total of shopping basket | Keep track of their spending
+| 12 | Shopper | Select multiple quantities of the same product | Order two of the same product
+| 13 | Shopper | Filter the products | Narrow down the products to the ones wanted
+| 14 | Shopper | See the number of search results | See the number of results of the search
+| 15 | Site User | Easily register for an account | view an individual profile
+| 16 | Site User | Easily login and logout | Access personal information
+| 17 | Site User | Recover a password if required | Recover access to their account if required
+| 18 | Site User | Have payment information saved | Speed up use for regular customers
+
+&nbsp;
+
+## Requirements and Expectations
+
+| Requirement | Expectation
+| -- | --
+| Visually appealing and well laid out | Colours to be complimentary, text to be clear. Navigation to be logical and simple
+| Responsive design (Mobile first) | The screen size to not affect the look of the application 
+| Secure payment method | Card details to be secure
+| CRUD functionality for products | Easily maintain the store's products
+| Search and filter products | Easily refine the product to the user's needs
 
 
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+# Marketing
+
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+
+# Wireframes
+
+
+\
+&nbsp;
+[Back to Top](#table-of-contents)
+\
+&nbsp;
+
+
+## Design Choices
+
+### Fonts
+
+The fonts chosen by the client were both selected from Google Fonts.
 
 
 
