@@ -1,3 +1,87 @@
+# Balance ceramics
+ <picuture>
+
+\
+&nbsp;
+Live link can be found here - [link]
+\
+
+&nbsp;
+# Table of Contents
+* [Background](#background "Background")
+* [Mission Statement](#mission-statement "Mission Statement")
+* [Target Audience](#target-audience "Target Audience")
+* [Stakeholder Interviews](#stakeholder-interviews "Stakeholder Interviews")
+    * [User Persona](#user-persona "User Persona")
+    * [User Goals](#user-goals "User Goals")
+    * [User Stories](#user-stories "User Stories")
+    * [Requirements and Expectations](#requirements-and-expectations)
+    * [Strategy](#strategy "Strategy")
+        * Strategy Outline
+        * Strategy Description
+    * [Marketing](#marketing "Marketing")
+    * [Wireframes](#wireframes "Wireframes")
+    * [Design Choices](#design-choices "Design Choices")
+        * Fonts
+            * Content
+            * Headings
+        * Colours
+        * Images
+    * [Structure](#structure "Structure")
+        * Site Structure
+        * Data Schema
+        * Models
+        * Forms
+    * [Features](#features "Features")
+        * Existing Features
+        * Features to be implemented
+    * [Technologies used](#technologies-used "Technologies used")
+        * Languages
+        * Libraries, Frameworks and Tools
+    * [Testing](#testing "Testing")
+        * UX Testing
+        * Manual Testing
+        * Code Validation
+        * Bugs
+        * Unfixed Bugs
+    * [Deployment](#deployment "Deployment")
+        * Local Deployment
+        * Deployment via Heroku
+    * [Credits](#credits "Credits")
+
+
+# Background
+Balance-ceramics as a shop sells ceramic mugs, plates and bowls. At this point the owner wanted to create ecommerce site only for mugs with the other products coming in later. Product is made in a small workshop. The whole business is owned by one person and all the works is done by the same person as well. So far, the business is run primarily on instagram, with the owner aiming to have an own commerce site.
+
+Customers at this point are primarily friends or relatives, with the aim to widen the audience, therefore the ecommerce site will be able to provide such goal.
+
+
+# Mission Statement
+to create an ecommerce site which would allow widen the customer base and have the ability to increase the income.
+
+# Target Audience
+The customers that use balance-ceramics at this point are mostly around the age of 30 years old. The target audience is the customer with higher salary and age over 30 years. 
+
+
+# Stakeholder Interviews
+
+## User Persona
+Interviews were carried out with the owner of Balance-ceramics, customers that currently use the instagram 'shop'.
+
+&nbsp;
+
+| Name | Age | Uses the service |
+| -- | -- | -- |
+| Tereza Nieserová | 30 | Owner | N/A |
+
+
+
+
+
+
+
+
+
 ![CI logo](https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png)
 
 Welcome JJohnyy,
